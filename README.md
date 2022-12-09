@@ -1,10 +1,8 @@
  Hi there 👋
 - 👀 I’m currently working on Shopify projects
 - 💬 Ask me about Shopify Store Setup
-- 📫 How to reach me ...
-
-
- - 🌱 I’m currently learning JavaScript
+- 📫 How to reach me ..
+ - 👨🏽‍💻 Languages I code with:
  <br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Liqued](https://img.shields.io/badge/Liqued-%2300ADD8.svg?style=for-the-badge&logo=Liqued&logoColor=white)

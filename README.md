@@ -5,6 +5,7 @@
 
 
  - 🌱 I’m currently learning JavaScript
+ <br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Liqued](https://img.shields.io/badge/Liqued-%2300ADD8.svg?style=for-the-badge&logo=Liqued&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%230175C2.svg?style=for-the-badge&logo=HTML5&logoColor=white)

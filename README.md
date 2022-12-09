@@ -1,5 +1,5 @@
  Hi there 👋
 - 👀 I’m currently working on Shopify projects
-- 🌱 I’m currently learning liqued
-- 💞️ Ask me about Shopify store setup
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about Shopify Store Setup
 - 📫 How to reach me ...

@@ -1,7 +1,7 @@
  Hi there 👋
 - 👀 I’m currently working on Shopify projects
-- 💬 Ask me about Shopify Store Setup
-- 📫 How to reach me ..
+- 💬 Ask me about Shopify Store Setup or Premium Theme Templates
+- 📫 How to reach me..
  - 👨🏽‍💻 Tools I use to code with:
  <br><br>
  ![Shopify](https://img.shields.io/badge/Shopify-%2335495e.svg?style=for-the-badge&logo=Shopify&logoColor=%234FC08D)

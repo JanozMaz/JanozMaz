@@ -9,7 +9,3 @@
 ![HTML](https://img.shields.io/badge/HTML-%23323330.svg?style=for-the-badge&logo=HTML&logoColor=%23F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS-%23323330.svg?style=for-the-badge&logo=CSS&logoColor=%23F7DF1E)
 ![Liquid](https://img.shields.io/badge/Liquid-%23323330.svg?style=for-the-badge&logo=Liquid&logoColor=%23F7DF1E)
-
-
-
-

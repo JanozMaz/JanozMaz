@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @JanozMaz
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JanozMaz/JanozMaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Hi there 👋
+👀 I’m currently working on Shopify projects
+🌱 I’m currently learning liqued
+💞️ Ask me about Shopify store setup
+📫 How to reach me ...
